@@ -1,0 +1,22 @@
+body{
+	background: Orange;
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+#cabecalho{
+	background: white;
+	width: 100%;
+	height: 150px;
+	text-align: center;
+}
+button{
+	border: none;
+	width: 30px;
+	height: 20px;
+	background: deepskyblue;
+}
